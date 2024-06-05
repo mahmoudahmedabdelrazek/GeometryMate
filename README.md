@@ -14,6 +14,6 @@ To use GeometryMate, simply clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mahmoudahmedabdelrazek/GeometryMate.git
-#OverView
 
-![1](https://github.com/mahmoudahmedabdelrazek/GeometryMate/assets/113595858/46c4f0c1-f75e-4ea6-a350-abf68b69e540)
+#OverView
+![1]
