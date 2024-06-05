@@ -7,6 +7,8 @@ GeometryMate is a project aimed at providing mathematical solutions for geometry
 - Calculate area and perimeter of geometric shapes.
 - Solve problems related to triangles, circles, squares, and more.
 - User-friendly interface.
+## bash
+git clone https://github.com/mahmoudahmedabdelrazek/GeometryMate.git
 
 ## Installation
 
