@@ -6,7 +6,7 @@
     <string name="areas_circle_radiuss_hint">القطر</string>
     <string name="areas_triangle_base_hint">القاعدة</string>
     <string name="areas_triangle_height_hint">الارتفاع</string>
-    <string name="btn_calculate_shapes">حساب قيمة الشكل الهندسي</string>
+    <string name="btn_calculate_shapes">   احسب</string>
 
     <string-array name="shapes">
         <item>اختيار الشكل</item>
