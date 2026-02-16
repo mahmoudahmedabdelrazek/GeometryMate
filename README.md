@@ -1,7 +1,9 @@
 # Screenshots of GeometryMate
 
-Here are some screenshots from the app:
+Here are some screenshots from the app displayed side by side:
 
-![Screenshot 1](Screenshots/1.jpg)
-![Screenshot 2](Screenshots/2.jpg)
-![Screenshot 3](Screenshots/3.jpg)
+<p align="center">
+  <img src="Screenshots/1.jpg" width="200" />
+  <img src="Screenshots/2.jpg" width="200" />
+  <img src="Screenshots/3.jpg" width="200" />
+</p>
