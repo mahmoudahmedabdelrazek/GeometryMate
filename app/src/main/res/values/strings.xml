@@ -6,6 +6,7 @@
     <string name="areas_triangle_base_hint">Base</string>
     <string name="areas_triangle_height_hint">Height</string>
     <string name="btn_calculate_shapes">Calculate</string>
+    <string name="enter_rectangle_values">Please enter both height and width for rectangle.</string>
 
     <string-array name="shapes">
         <item>Select shape</item>

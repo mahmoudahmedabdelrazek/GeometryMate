@@ -5,12 +5,13 @@ plugins {
 
 android {
     namespace = "com.my.app.calc.geometrymate"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.my.app.calc.geometrymate"
         minSdk = 24
-        targetSdk = 34
+        //noinspection EditedTargetSdkVersion,OldTargetApi
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 

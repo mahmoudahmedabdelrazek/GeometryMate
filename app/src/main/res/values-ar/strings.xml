@@ -8,6 +8,8 @@
     <string name="areas_triangle_height_hint">الارتفاع</string>
     <string name="btn_calculate_shapes">احسب</string>
 
+    <string name="enter_rectangle_values">يرجى إدخال كل من الطول والعرض للمستطيل.</string>
+
     <string-array name="shapes">
         <item>اختيار الشكل</item>
         <item>مساحة المستطيل</item>

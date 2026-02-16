@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     android:layout_gravity="center"
     android:layout_margin="10dp"
+    android:background="#FFF9FB"
     android:gravity="center"
     android:orientation="vertical"
     android:padding="10dp"
@@ -100,16 +101,24 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:backgroundTint="@color/pink"
+        app:backgroundTint="@null"
+        android:background="@drawable/rounder_bg_button"
         android:padding="10dp"
         android:text="@string/btn_calculate_shapes"
         android:textSize="24sp" />
 
     <TextView
         android:id="@+id/areas_txt_result"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
+        android:background="#333333"
         android:gravity="center"
+        android:ellipsize="none"
+        android:padding="10dp"
+        android:shadowRadius="@integer/material_motion_duration_long_1"
+        android:visibility="gone"
+        android:layout_marginTop="50dp"
+        android:text="10.5"
+        android:textColor="@color/white"
         android:textSize="50sp" />
 </LinearLayout>

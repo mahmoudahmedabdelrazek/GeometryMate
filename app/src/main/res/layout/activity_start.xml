@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#87CEEB"
+    android:background="@color/bg_color"
     android:gravity="center">
 
     <ImageView
@@ -26,7 +26,7 @@
         android:layout_marginTop="50dp"
         android:text="@string/app_name"
         android:textColor="@color/black"
-        android:textSize="24sp"
+        android:textSize="28sp"
         android:textStyle="bold" />
 
 </RelativeLayout>
