@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:colorandroid="http://schemas.android.com/apk/res-auto">
+    <shape>
+        <solid android:color="@color/pink" />
+        <corners android:radius="10dp" />
+        <stroke android:width="5dp" android:color="@color/green" />
+    </shape>
+</selector>

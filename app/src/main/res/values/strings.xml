@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Geometry Mate</string>
+    <string name="areas_rectangle_width_hint">Width</string>
+    <string name="areas_rectangle_height_hint">Height</string>
+    <string name="areas_circle_radiuss_hint">Radius</string>
+    <string name="areas_triangle_base_hint">Base</string>
+    <string name="areas_triangle_height_hint">Height</string>
+    <string name="btn_calculate_shapes">Calculate</string>
+
+    <string-array name="shapes">
+        <item>Select shape</item>
+        <item> Rectangle Area </item>
+        <item>Circumference</item>
+        <item>Triangle Area</item>
+    </string-array>
+
+</resources>

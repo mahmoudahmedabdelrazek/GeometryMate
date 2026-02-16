@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geometry Mate</string>
+    <string name="areas_rectangle_width_hint">العرض</string>
+    <string name="areas_rectangle_height_hint">الارتفاع</string>
+    <string name="areas_circle_radiuss_hint">القطر</string>
+    <string name="areas_triangle_base_hint">القاعدة</string>
+    <string name="areas_triangle_height_hint">الارتفاع</string>
+    <string name="btn_calculate_shapes">احسب</string>
+
+    <string-array name="shapes">
+        <item>اختيار الشكل</item>
+        <item>مساحة المستطيل</item>
+        <item>محيط الدائرة</item>
+        <item>مساحة المثلث</item>
+    </string-array>
+</resources>
